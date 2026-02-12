@@ -19,12 +19,10 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Open Health Documentation
-email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   The documentation to the MIS "Open Health"
 baseurl: "/openHealthDocs" # the subpath of your site, e.g. /blog
 url: "https://vitaliy-1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
 github_username:  Vitaliy-1
 
 # Build settings
